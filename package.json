@@ -1,0 +1,25 @@
+{
+  "name": "stream-utility-lib",
+  "version": "1.0.0",
+  "description": "Stream library for common functions to process objects in node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./lib/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnsell/stream-utility-lib.git"
+  },
+  "keywords": [
+    "streams"
+  ],
+  "author": "Robert Sell <robertsell21@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rnsell/stream-utility-lib/issues"
+  },
+  "homepage": "https://github.com/rnsell/stream-utility-lib#readme",
+  "devDependencies": {
+    "should": "^7.1.1"
+  }
+}
