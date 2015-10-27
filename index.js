@@ -2,5 +2,6 @@
 
 module.exports = {
     ObjectRStream: require("./lib/objectrstream/object.read.stream.js"),
-    MapTStream: require("./lib/maptsream/map.transform.stream.js")
+    MapTStream: require("./lib/maptstream/map.transform.stream.js")
+
 };
