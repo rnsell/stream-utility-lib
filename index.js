@@ -3,6 +3,7 @@
 
 module.exports.ArraySplitStream = require("./lib/arraysplit/arraysplit.transform.stream.js");
 module.exports.CounterStream = require("./lib/counter/counter.transform.stream.js");
+module.exports.ErrorStream = require("./lib/error/error.transform.stream.js");
 module.exports.FilterStream = require("./lib/filter/filter.transform.stream.js");
 module.exports.FilterCollectorStream = require("./lib/filtercollector/filtercollector.transform.stream.js");
 module.exports.MapStream = require("./lib/map/map.transform.stream.js");
